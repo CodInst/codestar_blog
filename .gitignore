@@ -214,3 +214,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Files added
+env.py
+
+# Avoid pushing the virtual environment to github
+venv
