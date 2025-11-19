@@ -220,3 +220,4 @@ env.py
 
 # Avoid pushing the virtual environment to github
 venv
+blog/fixtures/
